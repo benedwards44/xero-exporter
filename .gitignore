@@ -3,3 +3,4 @@ xero_privatekey.pem
 
 invoices.csv
 credit_notes.csv
+void_results.csv
